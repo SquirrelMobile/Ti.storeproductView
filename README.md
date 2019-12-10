@@ -1,4 +1,4 @@
-# tistoreproductview [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/SquirrelMobile/tistoreproductview)
+# tistoreproductview [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/SquirrelMobile/Ti.storeproductView/releases)
 
 
 Powered by
@@ -8,6 +8,7 @@ Powered by
 
 tistoreproductview is a Titanium module that allows to display a modal window on iOS to retrieve the information of an application form with an appId
 
+[![N|Solid](https://github.com/SquirrelMobile/Ti.storeproductView/tree/master/example/screenshoot.jpeg)](https://github.com/SquirrelMobile/Ti.storeproductView/tree/master/example/screenshoot.jpeg)
 
 # Usage
 
